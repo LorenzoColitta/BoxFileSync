@@ -1,0 +1,7 @@
+<dependencies>
+  <dependency>
+    <groupId>com.box</groupId>
+    <artifactId>box-java-sdk</artifactId>
+    <version>4.5.0</version>
+  </dependency>
+</dependencies>
